@@ -1,3 +1,7 @@
+conf
+mariadb.cnf
+db
+
 # Logs
 logs
 *.log

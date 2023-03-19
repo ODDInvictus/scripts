@@ -1,0 +1,4 @@
+MARIADB_ROOT_PASSWORD=asadasdsaasd
+MARIADB_BACKUP_DBS=( ibs3 db2 db3 )
+BACKUP_FOLDER=./backup
+DOCKER_MARIADB_NAME=mariadb
